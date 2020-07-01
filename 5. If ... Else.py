@@ -1,11 +1,11 @@
-# 5.1 If
+# 1. If
 
 # a = 5
 # b = 3
 # if a > b:
 #     print("a > b")
 
-# 5.2 Else (Different)
+# 2. Else (Different)
 
 # a = 5
 # b = 3
@@ -14,7 +14,7 @@
 # else:
 #     print("a > b")
 
-# 5.3 Elif
+# 3. Elif
 
 # a = 3
 # b = 3
