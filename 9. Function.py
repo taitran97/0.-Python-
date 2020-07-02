@@ -1,4 +1,4 @@
-# 9.1 Creating a Function
+# 1. Creating a Function
 
 # def myFunction():
 #     print("Hello Python")
