@@ -1,4 +1,4 @@
-# 6.1 While (When)
+# 1. While (When)
 
 # a = 0
 # (a ↑ 0 and a < 3)
@@ -6,7 +6,7 @@
 #     print(a)
 #     a += 1
 
-# 6.2 Break (Stop)
+# 2. Break (Stop)
 
 # a = 0
 # (a ↑ 0 and a == 3)
@@ -16,7 +16,7 @@
 #         break
 #     a += 1
 
-# 6.3 Continue [Delete]
+# 3. Continue [Delete]
 
 # a = 0
 # ([a ↑ 1 and a == 3] and a <= 5)
